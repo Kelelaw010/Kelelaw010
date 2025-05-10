@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, this is my profile 👋
+
+![Mara](github-header-image.png)
 
 <!--
 **Kelelaw010/Kelelaw010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I'm currently learning flutter and react
+- 📖 Currently writing code by day and fiction by night—dreaming in both worlds.
+- 🌍 Tech enthusiast with a soft spot for meaningful conversations and midnight snacks.
+- 🛠️ It’s not always easy, but the joy of getting it right is totally worth it.
+
+🎯 **_Skill_**
