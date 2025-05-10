@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://www.svgrepo.com/show/506668/instagram.svg" width="40" height="40" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.threads.net/@narndddd" target="_blank">
+<a href="https://www.threads.net/@tmrdarvist" target="_blank">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-app-icon.svg" width="40" height="40" alt="Threads"/>
 </a>
 &nbsp;&nbsp;
