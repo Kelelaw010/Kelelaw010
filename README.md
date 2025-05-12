@@ -2,20 +2,7 @@
 
 ## this is my profile 👋
 
-<!--
-**Kelelaw010/Kelelaw010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--**Kelelaw010/Kelelaw010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🌱 I'm currently learning flutter and react
 - 🌍 Tech enthusiast with a soft spot for meaningful conversations and midnight snacks.
@@ -34,43 +21,40 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<div align="center">
-
-🎯 **_Connect with me_**
-
-<a href="https://www.instagram.com/narndddd" target="_blank">
-  <img src="https://www.svgrepo.com/show/506668/instagram.svg" width="40" height="40" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.threads.net/@tmrdarvist" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-app-icon.svg" width="40" height="40" alt="Threads"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nama-kamu" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-</a>
-
-</div>
-
-<!-- ### My github stats
+<div align="center"><!-- ### My github stats
 ![Kelelaw010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelelaw010&show_icons=true&theme=shadow_blue)
-
 kalo mau ubah tinggal ke https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md, terus ganti theme nya-->
-
 <!-- # 💻 Tech Stack: -->
 
-### 📊 GitHub Stats:
+<div align="center">
+
+#### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Kelelaw010&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kelelaw010&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelelaw010&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Kelelaw010&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Kelelaw010&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<img align="right" height="150" src="img/wow.gif"  />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+
+  <a href="https://www.instagram.com/narndddd" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kelelaw010/Kelelaw010/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kelelaw010/Kelelaw010/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kelelaw010/Kelelaw010/output/pacman-contribution-graph.svg">
+</picture>
