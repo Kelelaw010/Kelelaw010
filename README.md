@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I'm currently learning flutter and react
-- 📖 Currently writing code by day and fiction by night—dreaming in both worlds.
 - 🌍 Tech enthusiast with a soft spot for meaningful conversations and midnight snacks.
 - 🛠️ It’s not always easy, but the joy of getting it right is totally worth it.
 
@@ -53,11 +52,25 @@ Here are some ideas to get you started:
 
 </div>
 
-<!-- **_Connek whit me_**
-![https://www.instagram.com/narndddd](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<!-- ### My github stats
+![Kelelaw010's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelelaw010&show_icons=true&theme=shadow_blue)
 
-![link thread](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&)logoColor=white
+kalo mau ubah tinggal ke https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md, terus ganti theme nya-->
 
-![link linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<!-- # 💻 Tech Stack: -->
 
--->
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Kelelaw010&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kelelaw010&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelelaw010&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+#### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Kelelaw010&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Kelelaw010&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
