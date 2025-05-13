@@ -39,9 +39,10 @@ kalo mau ubah tinggal ke https://github.com/anuraghazra/github-readme-stats/blob
 
 <img align="right" height="150" src="img/wow.gif" />
 
+<div align="left">
+
 #### 💻 connect with me
 
-<div align="left">
   <!-- Baris atas: YouTube, Thread & Instagram -->
   <div style="margin-bottom: 10px;">
     <a href="https://www.youtube.com/@Shakila-tn1ue" target="_blank">
